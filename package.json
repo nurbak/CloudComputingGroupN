@@ -1,0 +1,19 @@
+{
+  "name": "NurUndLuc",
+  "version": "0.0.1",
+  "description": "Chat Server for Cloud computing",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "html": "^1.0.0",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.3.4",
+    "multer": "^1.4.1",
+    "npm": "^6.4.1",
+    "socket.io": "2.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
